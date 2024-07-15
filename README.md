@@ -1,6 +1,6 @@
 # adventureworksdw_msfabric
 
-Criação de lakehouse utilizando banco de dados AdventureWorksDW. Script em PySpark e script em Spark SQL.
+Criação de lakehouse no Microsoft Fabric utilizando banco de dados AdventureWorksDW. Script em PySpark e script em Spark SQL.
 
 Link de download do dataset:
 
